@@ -6,4 +6,4 @@ I am a student at Columbia University, studying computer science and will be gra
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshajamjam&label=Profile%20views&color=0e75b6&style=flat" alt="ayshajamjam" /> </p> 
 
- [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
+ [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)]
