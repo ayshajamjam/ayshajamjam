@@ -12,6 +12,7 @@ Classes I Am Taking This Semester:
 
     🌱 Advanced Database Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshajamjam&label=Profile%20views&color=0e75b6&style=flat" alt="ayshajamjam" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshajamjam&label=Profile%20views&color=0e75b6&style=flat" alt="ayshajamjam" /></p> [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayshajamjam&" alt="ayshajamjam stats" /></p>
