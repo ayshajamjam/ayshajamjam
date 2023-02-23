@@ -5,8 +5,11 @@ I am a student at Columbia University, studying computer science and will be gra
 Classes I Am Taking This Semester:
 
 🌱 Open Source Development
+
 🌱 Computer Networks
+
 🌱 Natural Language Processing
+
 🌱 Advanced Database Systems
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshajamjam&label=Profile%20views&color=0e75b6&style=flat" alt="ayshajamjam" /></p>
