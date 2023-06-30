@@ -1,8 +1,8 @@
-### ✨ Hi there ✨
+### ✨ Welcome! ✨
 
-I am a student at Columbia University, studying computer science and will be graduating May 2023.
+I just completed my undergraduate degree at Columbia University!
 
-Classes I Am Taking This Semester:
+Classes I took this past semester:
 
     🌱 Open Source Development
 
